@@ -1,0 +1,4 @@
+-norestrictions
+-nomemrestrict
+-availablevidmem 30.0
+-fullscreen
